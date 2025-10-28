@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aero - Aviation Technology",
-  description: "Experience the future of aviation technology with Aero's innovative solutions",
+  title: "Afroze Pal - Software Developer",
+  description: "Where code meets creativity — crafting digital experiences that connect, inspire, and perform.",
 };
 
 export default function RootLayout({
