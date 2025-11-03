@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Fashion Store",
+    "description": "Modern fashion e-commerce platform with advanced filtering, wishlist, and payment integration.",
+    "image": "/projects/fashion-store.jpg",
+    "category": "E-commerce",
+    "technologies": ["Next.js", "TypeScript", "Stripe", "Tailwind CSS"],
+    "url": "https://fashion-store-demo.com",
+    "featured": true,
+    "year": "2024"
+  },
+  {
+    "id": 2,
+    "title": "Restaurant Booking System",
+    "description": "Complete restaurant management system with online reservations, menu display, and admin dashboard.",
+    "image": "/projects/restaurant-booking.jpg",
+    "category": "Web Application",
+    "technologies": ["React", "Node.js", "MongoDB", "Express"],
+    "url": "https://restaurant-booking-demo.com",
+    "featured": true,
+    "year": "2024"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "description": "Creative portfolio website for a photographer with image galleries and contact forms.",
+    "image": "/projects/photography-portfolio.jpg",
+    "category": "Portfolio",
+    "technologies": ["Next.js", "Framer Motion", "Tailwind CSS"],
+    "url": "https://photography-portfolio-demo.com",
+    "featured": false,
+    "year": "2023"
+  },
+  {
+    "id": 4,
+    "title": "SaaS Dashboard",
+    "description": "Analytics dashboard for SaaS companies with real-time data visualization and reporting.",
+    "image": "/projects/saas-dashboard.jpg",
+    "category": "Dashboard",
+    "technologies": ["React", "D3.js", "Chart.js", "Material-UI"],
+    "url": "https://saas-dashboard-demo.com",
+    "featured": true,
+    "year": "2024"
+  },
+  {
+    "id": 5,
+    "title": "Real Estate Platform",
+    "description": "Property listing platform with advanced search, virtual tours, and agent management.",
+    "image": "/projects/real-estate.jpg",
+    "category": "Platform",
+    "technologies": ["Vue.js", "Firebase", "Google Maps API"],
+    "url": "https://real-estate-demo.com",
+    "featured": false,
+    "year": "2023"
+  },
+  {
+    "id": 6,
+    "title": "Fitness App",
+    "description": "Mobile-responsive fitness tracking app with workout plans and progress monitoring.",
+    "image": "/projects/fitness-app.jpg",
+    "category": "Mobile App",
+    "technologies": ["React Native", "Firebase", "Redux"],
+    "url": "https://fitness-app-demo.com",
+    "featured": true,
+    "year": "2024"
+  }
+]
